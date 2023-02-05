@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Teenarp2003
-- I’m interested in ...Android Custom ROM development  
-- I’m currently learning ... electronics and Communication Engineering at Siliguri     Institute of Technology 
-- I’m looking to collaborate on ...anything related to Android development :))
+- I’m interested in ...Linux, Android, Desktop Customization.
+- I’m currently learning ... Electronics and Communication Engineering at Siliguri Institute of Technology 
+- I’m looking to collaborate on ...anything fun really :))
 - U can contact me through: > Email: praneet.guharoy@gmail.com
                             > Telegram : Teenarp2003
 
